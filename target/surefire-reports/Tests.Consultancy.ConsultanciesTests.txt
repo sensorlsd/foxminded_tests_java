@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Tests.Consultancy.ConsultanciesTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 40.145 s - in Tests.Consultancy.ConsultanciesTests

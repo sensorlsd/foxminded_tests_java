@@ -1,0 +1,17 @@
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utilities/SeleniumScreenShot.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utilities/Log.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utils/HandlingErrors.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/Database/DataBase.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utils/FormattingHelpers.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/PageObject/LoginPage.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/Database/DBUtils.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/Database/DBHelper.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/PageObject/MainPage.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utils/RandomGenerators.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/Database/DBCredentials.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/DriverManager/DriverWrapper.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utilities/WebDriverLog.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/Helpers/PropertyHelper.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utils/AssertionHelper.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/utils/WaitHelpers.java
+/Users/dmitry.nahliuk/Projects/foxmindcourse/src/main/java/Database/DBConstants.java

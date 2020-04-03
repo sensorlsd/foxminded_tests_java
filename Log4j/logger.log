@@ -1,0 +1,103 @@
+2020-03-17 14:52:43 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:52:50 INFO  Log:22 - Login under user: admin password: admin
+2020-03-17 14:52:51 INFO  Log:22 - Fill user name
+2020-03-17 14:52:51 INFO  Log:22 - Fill password
+2020-03-17 14:52:51 INFO  Log:22 - Click submit
+2020-03-17 14:52:52 INFO  Log:22 - Title contains: Admin panel
+2020-03-17 14:52:53 INFO  Log:22 - Open client
+2020-03-17 14:52:54 INFO  Log:22 - Wait when element to be clickable [[ChromeDriver: chrome on MAC (80811b741dd6d511b7e41c674a7f5c19)] -> xpath: //div[@id='fixed-table-toolbar--buttons']/button[@type='button']]
+2020-03-17 14:52:54 INFO  Log:22 - Create new client and assert with Data Base
+2020-03-17 14:52:54 INFO  Log:22 - Click create client button
+2020-03-17 14:52:54 INFO  Log:22 - Wait visibility Of [[ChromeDriver: chrome on MAC (80811b741dd6d511b7e41c674a7f5c19)] -> xpath: //div[@id='fixed-table-toolbar--buttons']/button[@type='button']]
+2020-03-17 14:52:54 INFO  Log:22 - Wait text to be present in element : [[ChromeDriver: chrome on MAC (80811b741dd6d511b7e41c674a7f5c19)] -> xpath: //div[@id='myModal']//h4[@class='modal-title']] : Create Client
+2020-03-17 14:52:56 INFO  Log:22 - Wait visibility Of all elements: [[ChromeDriver: chrome on MAC (80811b741dd6d511b7e41c674a7f5c19)] -> xpath: //div[1]/div[1]/div/div/form/div/div[2]]
+2020-03-17 14:53:07 INFO  Log:22 - Wait visibility Of Proxy element for: DefaultElementLocator 'By.xpath: //div[2]/button[@class='btn btn-primary'][contains(text(),'Save')]'
+2020-03-17 14:53:28 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:53:28 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:53:33 INFO  Log:22 - Login under user: admin password: admin
+2020-03-17 14:53:33 INFO  Log:22 - Fill user name
+2020-03-17 14:53:33 INFO  Log:22 - Fill password
+2020-03-17 14:53:34 INFO  Log:22 - Click submit
+2020-03-17 14:53:34 INFO  Log:22 - Title contains: Admin panel
+2020-03-17 14:53:34 INFO  Log:22 - Open client
+2020-03-17 14:53:35 INFO  Log:22 - Wait when element to be clickable [[ChromeDriver: chrome on MAC (5c1ba7cd74374eb0cfed1c6c337d628b)] -> xpath: //div[@id='fixed-table-toolbar--buttons']/button[@type='button']]
+2020-03-17 14:53:35 INFO  Log:22 - Add Fund to random client and check in DB
+2020-03-17 14:53:35 INFO  Log:22 - Select search field
+2020-03-17 14:53:36 INFO  Log:22 - Wait visibility Of [[ChromeDriver: chrome on MAC (5c1ba7cd74374eb0cfed1c6c337d628b)] -> css selector: input]
+2020-03-17 14:53:36 INFO  Log:22 - Handling column from Client section
+2020-03-17 14:53:37 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:53:38 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:53:42 INFO  Log:22 - Login under user: admin password: admin
+2020-03-17 14:53:42 INFO  Log:22 - Fill user name
+2020-03-17 14:53:42 INFO  Log:22 - Fill password
+2020-03-17 14:53:42 INFO  Log:22 - Click submit
+2020-03-17 14:53:43 INFO  Log:22 - Title contains: Admin panel
+2020-03-17 14:53:43 INFO  Log:22 - Open mentor section
+2020-03-17 14:53:44 INFO  Log:22 - Handling columns from mentor section
+2020-03-17 14:53:44 INFO  Log:22 - Handling columns from mentor section
+2020-03-17 14:53:45 INFO  Log:22 - Handling columns from mentor section
+2020-03-17 14:53:46 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:53:46 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:53:50 INFO  Log:22 - Fill registration form: yn4h6i v8qqzv random@random.com
+2020-03-17 14:53:50 INFO  Log:22 - Open register form
+2020-03-17 14:53:50 INFO  Log:22 - Fill user name field of registration form
+2020-03-17 14:53:51 INFO  Log:22 - Fill password field of registration form
+2020-03-17 14:53:51 INFO  Log:22 - Fill email field of registration form
+2020-03-17 14:53:51 INFO  Log:22 - Click registration button
+2020-03-17 14:53:52 INFO  Log:22 - Alert is present.
+2020-03-17 14:54:02 ERROR Log:42 - Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ua-mac-011.local', ip: 'fe80:0:0:0:18ee:2b95:2aa6:2e2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.4', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: /var/folders/wp/84kx611j2nb...}, goog:chromeOptions: {debuggerAddress: localhost:54259}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3a346ff923bb0c31d601ebb6a4e32a41
+2020-03-17 14:54:02 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:54:03 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:54:06 INFO  Log:22 - Login under user: admin password: admin
+2020-03-17 14:54:06 INFO  Log:22 - Fill user name
+2020-03-17 14:54:06 INFO  Log:22 - Fill password
+2020-03-17 14:54:06 INFO  Log:22 - Click submit
+2020-03-17 14:54:07 INFO  Log:22 - Title contains: Admin panel
+2020-03-17 14:54:08 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:54:08 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:54:12 INFO  Log:22 - Login under user: admin password: admin
+2020-03-17 14:54:12 INFO  Log:22 - Fill user name
+2020-03-17 14:54:12 INFO  Log:22 - Fill password
+2020-03-17 14:54:12 INFO  Log:22 - Click submit
+2020-03-17 14:54:13 INFO  Log:22 - Title contains: Admin panel
+2020-03-17 14:54:13 INFO  Log:22 - Open client
+2020-03-17 14:54:14 INFO  Log:22 - Wait when element to be clickable [[ChromeDriver: chrome on MAC (4d7303e0ae58ab930fae45873e5eb2a5)] -> xpath: //div[@id='fixed-table-toolbar--buttons']/button[@type='button']]
+2020-03-17 14:54:15 INFO  Log:22 - Click create client button
+2020-03-17 14:54:15 INFO  Log:22 - Wait visibility Of [[ChromeDriver: chrome on MAC (4d7303e0ae58ab930fae45873e5eb2a5)] -> xpath: //div[@id='fixed-table-toolbar--buttons']/button[@type='button']]
+2020-03-17 14:54:15 INFO  Log:22 - Wait text to be present in element : [[ChromeDriver: chrome on MAC (4d7303e0ae58ab930fae45873e5eb2a5)] -> xpath: //div[@id='myModal']//h4[@class='modal-title']] : Create Client
+2020-03-17 14:54:16 INFO  Log:22 - Wait visibility Of all elements: [[ChromeDriver: chrome on MAC (4d7303e0ae58ab930fae45873e5eb2a5)] -> xpath: //div[1]/div[1]/div/div/form/div/div[2]]
+2020-03-17 14:54:27 INFO  Log:22 - Wait visibility Of Proxy element for: DefaultElementLocator 'By.xpath: //div[2]/button[@class='btn btn-primary'][contains(text(),'Save')]'
+2020-03-17 14:54:48 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:54:48 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:54:52 INFO  Log:22 - Login under user: admin password: admin
+2020-03-17 14:54:52 INFO  Log:22 - Fill user name
+2020-03-17 14:54:52 INFO  Log:22 - Fill password
+2020-03-17 14:54:52 INFO  Log:22 - Click submit
+2020-03-17 14:54:53 INFO  Log:22 - Title contains: Admin panel
+2020-03-17 14:54:53 INFO  Log:22 - Open client
+2020-03-17 14:54:54 INFO  Log:22 - Wait when element to be clickable [[ChromeDriver: chrome on MAC (7162bdf8f791986ae87a6f8ffc9b37ca)] -> xpath: //div[@id='fixed-table-toolbar--buttons']/button[@type='button']]
+2020-03-17 14:54:54 INFO  Log:22 - Update client and assert with Data Base
+2020-03-17 14:54:54 INFO  Log:22 - Create new client and assert with Data Base
+2020-03-17 14:54:54 INFO  Log:22 - Click create client button
+2020-03-17 14:54:54 INFO  Log:22 - Wait visibility Of [[ChromeDriver: chrome on MAC (7162bdf8f791986ae87a6f8ffc9b37ca)] -> xpath: //div[@id='fixed-table-toolbar--buttons']/button[@type='button']]
+2020-03-17 14:54:54 INFO  Log:22 - Wait text to be present in element : [[ChromeDriver: chrome on MAC (7162bdf8f791986ae87a6f8ffc9b37ca)] -> xpath: //div[@id='myModal']//h4[@class='modal-title']] : Create Client
+2020-03-17 14:54:55 INFO  Log:22 - Wait visibility Of all elements: [[ChromeDriver: chrome on MAC (7162bdf8f791986ae87a6f8ffc9b37ca)] -> xpath: //div[1]/div[1]/div/div/form/div/div[2]]
+2020-03-17 14:55:07 INFO  Log:22 - Wait visibility Of Proxy element for: DefaultElementLocator 'By.xpath: //div[2]/button[@class='btn btn-primary'][contains(text(),'Save')]'
+2020-03-17 14:55:27 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:55:28 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:55:33 INFO  Log:17 - ---> Test is Ending !!! <---
+2020-03-17 14:55:33 INFO  Log:12 - ---> Test is Starting!!! <---
+2020-03-17 14:55:36 INFO  Log:22 - Login under user: admin password: admin
+2020-03-17 14:55:36 INFO  Log:22 - Fill user name
+2020-03-17 14:55:37 INFO  Log:22 - Fill password
+2020-03-17 14:55:37 INFO  Log:22 - Click submit
+2020-03-17 14:55:37 INFO  Log:22 - Title contains: Admin panel
+2020-03-17 14:55:38 INFO  Log:22 - Open mentor section
+2020-03-17 14:55:38 INFO  Log:22 - Create new mentor in mentor section params: Dima Sensor 20
+2020-03-17 14:55:39 INFO  Log:22 - Wait visibility Of [[ChromeDriver: chrome on MAC (45d29db7241c1df842bf755f99f69a20)] -> xpath: //h4[@class="modal-title"]]
+2020-03-17 14:55:40 INFO  Log:17 - ---> Test is Ending !!! <---

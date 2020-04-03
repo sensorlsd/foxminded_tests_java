@@ -1,0 +1,12 @@
+Tests/Registration/RegistrationTest.class
+Tests/ExtraFields/ExtraFieldsTests.class
+Tests/Dashboard/DashboardTests.class
+Tests/Accounts/AccountTests.class
+Tests/Deal/DealTests.class
+LoginPageTestsSuite.class
+Tests/Contracts/ContractTest.class
+Tests/CashFlow/CashFlowTests.class
+Tests/Clients/ClientsTests.class
+DriverManager/BrowserController.class
+MainPageTestsSuite.class
+Tests/Consultancy/ConsultanciesTests.class

@@ -1,0 +1,17 @@
+utilities/WebDriverLog.class
+Database/DBConstants.class
+DriverManager/DriverWrapper.class
+utils/AssertionHelper.class
+utilities/Log.class
+PageObject/MainPage.class
+utils/WaitHelpers.class
+Database/DBHelper.class
+Database/DataBase.class
+utils/HandlingErrors.class
+Helpers/PropertyHelper.class
+utils/RandomGenerators.class
+utils/FormattingHelpers.class
+PageObject/LoginPage.class
+utilities/SeleniumScreenShot.class
+Database/DBUtils.class
+Database/DBCredentials.class
