@@ -78,7 +78,7 @@
 
         <!-- DataBase version-->
         <postgresql.version>42.2.8</postgresql.version>
-        <commion.io.version>2.6</commion.io.version>
+        <commion.io.version>2.7</commion.io.version>
     </properties>
 
     <dependencies>
