@@ -77,7 +77,7 @@
         <rest-assured.verion>3.3.0</rest-assured.verion>
 
         <!-- DataBase version-->
-        <postgresql.version>42.2.8</postgresql.version>
+        <postgresql.version>42.4.1</postgresql.version>
         <commion.io.version>2.6</commion.io.version>
     </properties>
 
